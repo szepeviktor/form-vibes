@@ -229,7 +229,7 @@ class AdminRest extends WP_REST_Controller
         $maxDateString = strtotime($endDate);
 
         if ($minDateString > $maxDateString) {
-            throw new Exception("From Date must be lesser than to date", 1);
+            throw new \Exception("From Date must be lesser than to date", 1);
         }
 
         for ($ctrlVarb = 1; $ctrlVarb <= $count; $ctrlVarb++) {
