@@ -1,0 +1,9 @@
+{
+    "require": {
+        "nesbot/carbon": "^2.45",
+        "kylekatarnls/update-helper": "^1.2"
+    },
+    "require-dev": {
+        "szepeviktor/phpstan-wordpress": "^0.7.2"
+    }
+}

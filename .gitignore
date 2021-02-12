@@ -1,3 +1,21 @@
+# firebase/php-jwt
+# google/apiclient
+# google/apiclient-services
+# google/auth
+# guzzlehttp/guzzle
+# guzzlehttp/promises
+# guzzlehttp/psr7
+# monolog/monolog
+# phpseclib/phpseclib
+# psr/cache
+# psr/http-message
+# psr/log
+# ralouphie/getallheaders
 /lib/vendor/
+
+# freemius/wordpress-sdk
 /freemius/
+
+# nesbot/carbon
+# kylekatarnls/update-helper
 /vendor/
